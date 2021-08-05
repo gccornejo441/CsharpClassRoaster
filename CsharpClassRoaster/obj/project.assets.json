@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GabrielC\\Documents\\GitHub\\FirstCoreReact\\CsharpClassRoaster\\CsharpClassRoaster\\CsharpClassRoaster.csproj",
+      "projectUniqueName": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CsharpClassRoaster\\CsharpClassRoaster.csproj",
       "projectName": "CsharpClassRoaster",
-      "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\FirstCoreReact\\CsharpClassRoaster\\CsharpClassRoaster\\CsharpClassRoaster.csproj",
+      "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CsharpClassRoaster\\CsharpClassRoaster.csproj",
       "packagesPath": "C:\\Users\\GabrielC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\FirstCoreReact\\CsharpClassRoaster\\CsharpClassRoaster\\obj\\",
+      "outputPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CsharpClassRoaster\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GabrielC\\AppData\\Roaming\\NuGet\\NuGet.Config",

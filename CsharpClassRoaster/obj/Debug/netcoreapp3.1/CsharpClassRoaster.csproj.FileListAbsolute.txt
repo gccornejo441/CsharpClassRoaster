@@ -1,0 +1,13 @@
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\bin\Debug\netcoreapp3.1\CsharpClassRoaster.exe
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\bin\Debug\netcoreapp3.1\CsharpClassRoaster.deps.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\bin\Debug\netcoreapp3.1\CsharpClassRoaster.runtimeconfig.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\bin\Debug\netcoreapp3.1\CsharpClassRoaster.runtimeconfig.dev.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\bin\Debug\netcoreapp3.1\CsharpClassRoaster.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\bin\Debug\netcoreapp3.1\CsharpClassRoaster.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\obj\Debug\netcoreapp3.1\CsharpClassRoaster.csproj.AssemblyReference.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\obj\Debug\netcoreapp3.1\CsharpClassRoaster.AssemblyInfoInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\obj\Debug\netcoreapp3.1\CsharpClassRoaster.AssemblyInfo.cs
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\obj\Debug\netcoreapp3.1\CsharpClassRoaster.csproj.CoreCompileInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\obj\Debug\netcoreapp3.1\CsharpClassRoaster.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\obj\Debug\netcoreapp3.1\CsharpClassRoaster.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CsharpClassRoaster\obj\Debug\netcoreapp3.1\CsharpClassRoaster.genruntimeconfig.cache
