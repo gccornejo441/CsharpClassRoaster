@@ -1,0 +1,17 @@
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.AssemblyReference.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CopyComplete
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
