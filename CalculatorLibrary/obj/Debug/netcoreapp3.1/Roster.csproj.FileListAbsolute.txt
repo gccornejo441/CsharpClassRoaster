@@ -1,0 +1,8 @@
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\bin\Debug\netcoreapp3.1\Roster.deps.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\bin\Debug\netcoreapp3.1\Roster.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\bin\Debug\netcoreapp3.1\Roster.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.AssemblyInfoInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.AssemblyInfo.cs
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.csproj.CoreCompileInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.pdb

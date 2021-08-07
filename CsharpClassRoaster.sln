@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{39D7357A-3499-40E7-8693-A123FB89BF90}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassRoster", "Calculator\ClassRoster.csproj", "{39D7357A-3499-40E7-8693-A123FB89BF90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary", "CalculatorLibrary\CalculatorLibrary.csproj", "{EDCA198C-6356-4403-A6CF-DD99F0CEA740}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roster", "CalculatorLibrary\Roster.csproj", "{EDCA198C-6356-4403-A6CF-DD99F0CEA740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zv1rE1hdy65AYFWvRSojnp8X+WJCUo1Ug9NudZmkTAGutqWy08Gtvv9FZkak57ujSyI3LIdV/tSrIA++l+JGNw==",
+  "dgSpecHash": "s7z/ooKsoqhGAum/0Yj0TOYjlZzMLJByRF2EjOUx9AogSSItIYfIH6m/e1KbCOaDgX1VLQln8lEMMIYY5fB/GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\Calculator\\ClassRoster.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GabrielC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

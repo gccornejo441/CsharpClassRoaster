@@ -1,0 +1,17 @@
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\ClassRoster.exe
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\ClassRoster.deps.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\ClassRoster.runtimeconfig.dev.json
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Roster.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\bin\Debug\netcoreapp3.1\Roster.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.csproj.AssemblyReference.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfoInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.AssemblyInfo.cs
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.csproj.CoreCompileInputs.cache
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.csproj.CopyComplete
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.dll
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\Calculator\obj\Debug\netcoreapp3.1\ClassRoster.genruntimeconfig.cache

@@ -11,17 +11,17 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "CalculatorLibrary/1.0.0": {
+      "Roster/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1"
         },
         "compile": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
+          "bin/placeholder/Roster.dll": {}
         },
         "runtime": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
+          "bin/placeholder/Roster.dll": {}
         }
       }
     }
@@ -54,15 +54,15 @@
         "packageIcon.png"
       ]
     },
-    "CalculatorLibrary/1.0.0": {
+    "Roster/1.0.0": {
       "type": "project",
-      "path": "../CalculatorLibrary/CalculatorLibrary.csproj",
-      "msbuildProject": "../CalculatorLibrary/CalculatorLibrary.csproj"
+      "path": "../CalculatorLibrary/Roster.csproj",
+      "msbuildProject": "../CalculatorLibrary/Roster.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "CalculatorLibrary >= 1.0.0"
+      "Roster >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -71,9 +71,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\Calculator\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\Calculator\\ClassRoster.csproj",
+      "projectName": "ClassRoster",
+      "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\Calculator\\ClassRoster.csproj",
       "packagesPath": "C:\\Users\\GabrielC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
@@ -92,8 +92,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-              "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\CalculatorLibrary.csproj"
+            "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\Roster.csproj": {
+              "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\Roster.csproj"
             }
           }
         }

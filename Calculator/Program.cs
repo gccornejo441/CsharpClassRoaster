@@ -1,35 +1,20 @@
 ﻿using System;
-using CalculatorLibrary;
+using RosterData;
+using System.Collections.Generic;
 
 namespace CalculatorProgram
 {
     class Program
     {
 
-        static void add(string[] studentInfo)
-        {
-            string studentsToAdd;
-
-            for (int i = 0; i < studentInfo.Length; i++)
-            {
-                studentsToAdd = studentInfo[i];
-
-                switch(studentsToAdd)
-                {
-                    case "A1":
-                        Console.WriteLine(studentsToAdd);
-                        break;
-                }
-            }
-        }
-
-
         static void Main(string[] args)
         {
             Console.WriteLine("This is a class roaster app created in C#");
             Console.WriteLine("-----------------------------------------");
 
-            // Studen Data
+            Roster roster = new Roster();
+
+            // Student Data
             string[] studentData = new string[] {
                 "A1,John,Smith,John1989@gm ail.com,20,30,35,40,SECURITY",
                 "A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
@@ -40,12 +25,14 @@ namespace CalculatorProgram
 
             string[] studentID = new string[5];
 
-
+            Console.WriteLine("Enter a student ID: ");
             var insert = Console.ReadLine();
 
             studentID[0] = insert;
 
-            add(studentID);
+            string newStudent = roster.add(studentID, studentData);
+            Console.Write($"You have added: {newStudent}");
+            Console.WriteLine(" ");
         }
     }
 }

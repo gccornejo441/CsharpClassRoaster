@@ -53,9 +53,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\CalculatorLibrary.csproj",
-      "projectName": "CalculatorLibrary",
-      "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\CalculatorLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\Roster.csproj",
+      "projectName": "Roster",
+      "projectPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\Roster.csproj",
       "packagesPath": "C:\\Users\\GabrielC\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\GabrielC\\Documents\\GitHub\\CsharpClassRoaster\\CalculatorLibrary\\obj\\",
       "projectStyle": "PackageReference",
