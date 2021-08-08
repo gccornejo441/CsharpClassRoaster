@@ -6,3 +6,4 @@ C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debu
 C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.csproj.CoreCompileInputs.cache
 C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.dll
 C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.pdb
+C:\Users\GabrielC\Documents\GitHub\CsharpClassRoaster\CalculatorLibrary\obj\Debug\netcoreapp3.1\Roster.csproj.AssemblyReference.cache

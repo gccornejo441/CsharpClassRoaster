@@ -6,12 +6,14 @@ namespace CalculatorProgram
 {
     class Program
     {
+        
 
         static void Main(string[] args)
         {
             Console.WriteLine("This is a class roaster app created in C#");
             Console.WriteLine("-----------------------------------------");
 
+            // Instantiating roster
             Roster roster = new Roster();
 
             // Student Data
@@ -29,10 +31,16 @@ namespace CalculatorProgram
             var insert = Console.ReadLine();
 
             studentID[0] = insert;
-
+            
+            // Calling add method
             string newStudent = roster.add(studentID, studentData);
             Console.Write($"You have added: {newStudent}");
             Console.WriteLine(" ");
+            Console.WriteLine(" ");
+
+
+            roster.printAll(studentData);
+            roster.emailValidation(studentData);    
         }
     }
 }
