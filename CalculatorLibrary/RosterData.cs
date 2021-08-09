@@ -5,6 +5,28 @@ namespace RosterData
 {
     public class Roster
     {
+        public Roster(string firstName, string lastName)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+        }
+
+        public string FirstName { get; }
+        public string LastName { get; }
+
+        public string FullName
+        {
+            get
+            {
+                return FirstName + " " + LastName;
+            }
+        }
+
+        public virtual void HelloToConsole()
+        {
+            Console.WriteLine("Hi, I'm a student, my name is " + FullName.ToUpper());
+        }
+
         public void printAll(string[] rosterInfo)
         {
          

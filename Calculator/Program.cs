@@ -1,5 +1,6 @@
 ﻿using System;
 using RosterData;
+using ClassRoster;
 using System.Collections.Generic;
 
 namespace CalculatorProgram
@@ -15,6 +16,8 @@ namespace CalculatorProgram
 
             // Instantiating roster
             Roster roster = new Roster();
+
+            Program.myFunction();
 
             // Student Data
             string[] studentData = new string[] {
@@ -40,7 +43,14 @@ namespace CalculatorProgram
 
 
             roster.printAll(studentData);
-            roster.emailValidation(studentData);    
+            //roster.emailValidation(studentData);
+           
+        }
+
+        public static void myFunction()
+        {
+            Student me = new Student("Gabriel", "Mike");
+            me.HelloToConsole();
         }
     }
 }
