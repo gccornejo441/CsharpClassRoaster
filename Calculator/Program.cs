@@ -15,9 +15,10 @@ namespace CalculatorProgram
             Console.WriteLine("-----------------------------------------");
 
             // Instantiating roster
-            Roster roster = new Roster();
+            Roster roster = new Roster("Gabriel", "Cornejo");
 
-            Program.myFunction();
+            var account = new BankAccount("Gabriel", 1000);
+            Console.WriteLine($"Account {account.Number} was created for {account.Owner} with {account.Balance} initial balance.");
 
             // Student Data
             string[] studentData = new string[] {
@@ -47,10 +48,5 @@ namespace CalculatorProgram
            
         }
 
-        public static void myFunction()
-        {
-            Student me = new Student("Gabriel", "Mike");
-            me.HelloToConsole();
-        }
     }
 }
